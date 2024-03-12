@@ -1,0 +1,222 @@
+
+{
+  "navbar": {
+    "home": "Home",
+    "features": "Features",
+    "customer": "Customer",
+    "portfolio": "Portfolio",
+    "team": "Team",
+    "testimonial": "Testimonial",
+    "pricing": "Pricing",
+    "contact": "Contact Us"
+  },
+  "hero": {
+    "heading1": "APOSTOL",
+    "heading2": "SI ASOCIATII",
+    "cta1": "Watch Demo",
+    "cta2": "Book a Call",
+    "description": "Our company boasts a highly skilled team of professionals, each possessing a wealth of expertise and a passion for innovation. We take pride in our talented team, whose diverse backgrounds and collaborative spirit drive the success of every project we undertake."
+  },
+  "companyJobs": {
+    "companyJobsTitle": "Services",
+    "companyJobsDescription": "The future of design begins its journey right here at APOSTOL SI ASOCIATII, where innovation meets creativity to shape tomorrow's digital landscape.",
+    "graphicsDesign": {
+      "title": "Immigration Services",
+      "description": "Unlock your creativity with stunning visuals,\nWhere imagination meets pixels,\nCrafting designs that leave lasting impressions."
+    },
+    "printDesign": {
+      "title": "Print Design",
+      "description": "Bringing ideas to life on tangible canvas,\nFrom brochures to posters, our designs enchant,\nCaptivate your audience with printed perfection."
+    },
+    "businessAnalysis": {
+      "title": "Business Analysis",
+      "description": "Deciphering data to drive strategic decisions,\nUnraveling insights for organizational precision,\nEmpowering businesses with analytical vision."
+    },
+    "webDevelopment": {
+      "title": "Web Development",
+      "description": "Building digital landscapes, pixel by pixel,\nTransforming concepts into interactive portals,\nCrafting the virtual realm with code and creativity."
+    },
+    "bestSecurity": {
+      "title": "Best Security",
+      "description": "Shielding your digital fortress from cyber threats,\nWith encryption strong, your data never frets,\nFortifying defenses to keep intruders at bay."
+    },
+    "webDesign": {
+      "title": "Web Design",
+      "description": "Crafting digital experiences with finesse,\nWhere aesthetics meet seamless user access,\nElevating online presence with design prowess."
+    }
+  },
+  "features": {
+    "title": "Empowering Your Journey to New Beginnings",
+    "description": "At APOSTOL si ASOCIATII, we understand that the journey to a new country is filled with hopes, dreams, and aspirations. It's more than just a move; it's the start of a new chapter in life. Our mission is to make your transition as smooth and stress-free as possible. With years of expertise and a compassionate approach, we're not just your immigration consultants; we're your partners in paving the path to your future.",
+    "softwareSolutions": {
+      "title": "Employer-Sponsored Visas",
+      "description": "Work Permits | Visa Assistance | Residence Permits | Secondment Approvals | Change of Employer | Change of Position"
+    },
+    "coreDevelopment": {
+      "title": "Visa Assistance",
+      "description": "Work Visa | Business | Travel | Family Reunification | Volunteering"
+    },
+    "hostingMigration": {
+      "title": "Building Teams",
+      "description": "Software Development | IT Consultancy | Energy | Services | Construction | Finance"
+    },
+    "humanResources": {
+      "title": "Human Resources",
+      "description": "Recruitment | Staffing | Consultancy"
+    }
+  },
+  "customerHeader": {
+    "title": "Trusted Customers",
+    "description": "Our reputation is built on trust – over 1000 companies worldwide rely on our expertise and solutions to drive success."
+  },
+  "trustedCustomers": [
+    {
+      "name": "JDS Software Services",
+      "description": "IT Consultancy, recruitment services for the European energy market in partnership with GE Vernova",
+      "link": "https://www.gevernova.com/",
+      "image": "/assets/companies/jds.png"
+    },
+    {
+      "name": "Asia Continental Group",
+      "description": "HR Services and Business Consultancy",
+      "link": "https://acgbd.com/",
+      "image": "/assets/companies/acgbd.png"
+    },
+    {
+      "name": "SIQSESS",
+      "description": "IT Consultancy, Recruitment services, Immigration Services",
+      "link": "https://www.siqsess.com/#/home",
+      "image": "/assets/companies/siqces.png"
+    },
+    {
+      "name": "EVO House",
+      "description": "HR Services and Immigration Services.",
+      "link": "https://evohouse.eu/",
+      "image": "/assets/companies/evohouse.png"
+    },
+    {
+      "name": "Romstal",
+      "description": "HR Services and Immigration Services.",
+      "link": "https://www.romstal.ro/",
+      "image": "/assets/companies/romastal.png"
+    },
+    {
+      "name": "Floraria Iris",
+      "description": "HR Services and Immigration Services.",
+      "link": "https://www.florariairis.ro/",
+      "image": "/assets/companies/Floraria.png"
+    }
+  ],
+  "recentWorks": {
+    "title": "Recent Projects",
+    "description": "With over 20 years experience in HR and Recruitment Services and over 16 years experience in IT Consultancy, our team is ready to help you achieve your full potential.",
+    "works": [
+      {
+        "title": "Designing new Applications",
+        "description": "Creating safe, secure, reliable and scalable solutions for the Energy Market with industry leading partners.",
+        "imageUrl": "assets/projects/content.png"
+      },
+      {
+        "title": "E-commerce Website Optimization",
+        "description": "Enhancing user experience and conversion rates,\nImplementing responsive design, improving site speed, and streamlining checkout process,\nBoost online sales and customer satisfaction.",
+        "imageUrl": "assets/projects/ecommerce.png"
+      },
+      {
+        "title": "HR and Recruitment",
+        "description": "Recruiting the best talent and helping you navigate establish stable processes.",
+        "imageUrl": "assets/projects/identity.png"
+      },
+      {
+        "title": "Immigration Services",
+        "description": "Helping you and your talent get the required visas\nApplying for your work permits\nHelping you build a diverse and dynamic team.",
+        "imageUrl": "assets/projects/social.png"
+      },
+      {
+        "title": "Data Analysis and Visualization",
+        "description": "Extracting insights from complex datasets,\nEmpower decision-making and drive business growth with data-driven strategies.",
+        "imageUrl": "assets/projects/data.png"
+      },
+      {
+        "title": "Brand Identity Revamp",
+        "description": "Refreshing brand elements for a modern appeal,\nLogo redesign, color palette refinement, and cohesive visual identity,\nElevate brand perception and recognition in the market.",
+        "imageUrl": "assets/projects/mobile.png"
+      }
+    ]
+  },
+  "testimonial": {
+    "title": "What's our customers say",
+    "testimonial1": "Apostol Si Asociat II has been instrumental in transforming our business operations. Their software solutions are not just innovative but also seamlessly integrate with our existing systems.",
+    "testimonial2": "We've been partnering with Apostol Si Asociat II for several years now, and their commitment to quality and excellence has never wavered.",
+    "testimonial3": "Apostol Si Asociat II sets the bar high when it comes to software development. Their solutions are not only robust and reliable but also tailored to meet our specific business needs.",
+    "testimonial4": "Choosing Apostol Si Asociat II as our software provider was one of the best decisions we made for our business.",
+    "testimonial5": "Working with Apostol Si Asociat II has been a game-changer for our organization. Their software solutions have not only simplified our workflows but also significantly reduced our operational costs."
+  },
+  "pricing": {
+    "title": "Pricing Plan",
+    "monthly": {
+      "title": "Monthly",
+      "priceLabel": "/ Month",
+      "price": "19",
+      "discountApplied": "None",
+      "advantages": {
+        "first": "First premium advantage",
+        "second": "Second premium advantage",
+        "third": "Third advantage"
+      },
+      "button": "Get Started"
+    },
+    "annual": {
+      "title": "Annual",
+      "priceLabel": "/ Month",
+      "price": "15",
+      "discountApplied": "1 Discount applied",
+      "originalPrice": "BILLED YEARLY",
+      "discountedPrice": "$190",
+      "advantages": {
+        "first": "First premium advantage",
+        "second": "Second premium advantage",
+        "third": "Third advantage",
+        "fourth": "Fourth organizations advantage"
+      },
+      "button": "Get Started"
+    },
+    "free": {
+      "title": "Free",
+      "price": "0",
+      "advantages": {
+        "first": "First premium advantage",
+        "second": "Second premium advantage",
+        "third": "Third advantage"
+      },
+      "button": "Start Plan"
+    }
+  },
+  "contact": {
+    "title": "Get in touch",
+    "subtitle": "We're here to help and answer any question you might have. We look forward to hearing from you!",
+    "placeholders": {
+      "name": "Name",
+      "email": "Email",
+      "number": "Number",
+      "subject": "Subject",
+      "message": "Message"
+    },
+    "submitButtonText": "Submit",
+    "contactDetails": {
+      "phone": ["0769 770 044", "+0040 769 770 044"],
+      "email": ["apostolsiasociatii@gmail.com", "office@apostolsiasociatii.eu"],
+      "address": ["BUCURESTI", "B-DUL CORNELIU COPOSU NR. 7" , "BL. 104, SC 3, ET. 5, AP. 77" , "INTERFON 77"]
+    }
+  },
+  "footer": {
+    "home": "Home",
+    "features": "Features",
+    "portfolio": "Portfolio",
+    "team": "Team",
+    "pricing": "Pricing",
+    "contact": "Contact Us",
+    "copyRight": "Copyright © APOSTOL si ASOCIATII | All rights reserved"
+  }
+
+}
+

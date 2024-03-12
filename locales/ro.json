@@ -1,0 +1,219 @@
+{
+  "navbar": {
+    "home": "Acasă",
+    "features": "Caracteristici",
+    "customer": "Client",
+    "portfolio": "Portofoliu",
+    "team": "Echipă",
+    "testimonial": "Mărturie",
+    "pricing": "Prețuri",
+    "contact": "Contactați-ne"
+  },
+  "hero": {
+    "heading1": "APOSTOL",
+    "heading2": "SI ASOCIATII",
+    "cta1": "Urmărește demo-ul",
+    "cta2": "Suntem aici",
+    "description": "Avem o echipă de profesioniști extrem de talentați, cu experiență bogată și pasiune pentru inovație. Spiritul de echipa și expertiza duc la succesul fiecărui proiect pe care îl abordăm."
+  },
+  "companyJobs": {
+    "companyJobsTitle": "Servicii",
+    "companyJobsDescription": "Viitorul începe la APOSTOL SI ASOCIATII, unde inovația se întâlnește cu creativitatea.",
+    "graphicsDesign": {
+      "title": "Resurse umane",
+      "description": "Deblocarea creativității tale cu imagini uimitoare,\nUnde imaginația întâlnește pixelii,\nCrearea unor designuri care lasă impresii durabile."
+    },
+    "printDesign": {
+      "title": "Servicii de imigrari",
+      "description": "Expertiză globală, culoare Locală\nTransparență și integritate\nNe mândrim cu istoricul nostru de a ajuta clienții să își atingă obiectivele."
+    },
+    "businessAnalysis": {
+      "title": "Analiză de afaceri",
+      "description": "Analiza de date\nViziune analitică."
+    },
+    "webDevelopment": {
+      "title": "Dezvoltare software",
+      "description": "Solutii custom pentru piata energiei electrice\nConstruirea peisajelor digitale, pixel cu pixel,\nTransformarea conceptelor în portaluri interactive,\nModelarea sferei virtuale cu cod și creativitate."
+    },
+    "bestSecurity": {
+      "title": "Cea mai bună securitate",
+      "description": "Analize de securitate,\nSecuritatea datelor si anonimizare,\nAnalize OWASP."
+    },
+    "webDesign": {
+      "title": "Design web",
+      "description": "Crearea de experiențe digitale,\nCea mai buna experianta de utilizator."
+    }
+  },
+  "features": {
+    "title": "Viitorul începe aici",
+    "description": "La APOSTOL si ASOCIATII, înțelegem că drumul către o țară nouă este plin de speranțe, visuri și aspirații. Este mai mult decât o simplă mutare; este începutul unui nou capitol în viață. Misiunea noastră este de a face tranziția voastra cât mai lină și lipsită de stres posibil. Cu ani de expertiză și o abordare plină de compasiune, nu suntem doar consultanții vostri în imigrație; suntem partenerii vostri în a deschide calea către viitor.",
+    "softwareSolutions": {
+      "title": "Pentru Angajatori",
+      "description": "Avize de munca | Permise de sedere | Avize de detasare | Schimbarea angajatorului | Schimbarea functiei"
+    },
+    "coreDevelopment": {
+      "title": "Pentru Angajati",
+      "description": "Vize de munca | Afaceri | Turism | Reintregirea familiei | Voluntariat"
+    },
+    "hostingMigration": {
+      "title": "Construim echipe",
+      "description": "Software Development | Consutlanta IT | Energie | Servicii | Constructii | Finante"
+    },
+    "humanResources": {
+      "title": "Resurse umane",
+      "description": "Recrutare | Staffing | Consultanta"
+    }
+  },
+  "customerHeader": {
+    "title": "Clienți de Încredere",
+    "description": "Reputația noastră este construită pe încredere - numeroase de companii la nivel mondial se bazează pe expertiza și soluțiile noastre pentru a obține succesul."
+  },
+"trustedCustomers": [
+    {
+      "name": "JDS Software Services",
+      "description": "Recrutare de personal software si consultanta pentru un proiect  in parteneriat cu GE Vernova",
+      "link": "https://www.gevernova.com/",
+      "image": "/assets/companies/jds.png"
+    },
+    {
+      "name": "SIQSESS",
+      "description": "Recrutare de personal software.",
+      "link": "https://www.siqsess.com/#/home",
+      "image": "/assets/companies/siqces.png"
+    },
+    {
+      "name": "Asia Continental Group",
+      "description": "Servicii HR si consultanta business.",
+      "link": "https://acgbd.com/",
+      "image": "/assets/companies/acgbd.png"
+    },
+    {
+      "name": "EVO House",
+      "description": "Servicii HR si recrutare de personal.",
+      "link": "https://evohouse.eu/",
+      "image": "/assets/companies/evohouse.png"
+    },
+    {
+      "name": "Romstal",
+      "description": "Servicii HR si recrutare de personal.",
+      "link": "https://www.romstal.ro/",
+      "image": "/assets/companies/romastal.png"
+    },
+    {
+      "name": "Floraria Iris",
+      "description": "Servicii HR si recrutare de personal.",
+      "link": "https://www.florariairis.ro/",
+      "image": "/assets/companies/Floraria.png"
+    }
+  ],
+  "recentWorks": {
+    "title": "Proiecte recente",
+    "description": "Avand peste 20 de ani de experianta in HR si peste 16 in Consultanta IT, echipa noastra este pregatita sa va ajute sa va atingeti potentialul.",
+    "works": [
+      {
+        "title": "Aplicatii Custom de la Zero",
+        "description": "Aplicatii sigure, stabile, scalabile si performante pentru piata energetica in colaborare cu parteneri de top din industrie.",
+        "imageUrl": "assets/projects/content.png"
+      },
+      {
+        "title": "Optimizare site de comerț electronic",
+        "description": "Îmbunătățirea experienței utilizatorului și a ratei de conversie,\nImplementarea designului responsiv, îmbunătățirea vitezei site-ului și simplificarea procesului de checkout,\nCresterea vânzărilor online și satisfacția clienților.",
+        "imageUrl": "assets/projects/ecommerce.png"
+      },
+      {
+        "title": "HR",
+        "description": "Va ajutam sa gasiti cei mai buni oameni.\nVa ajutam sa creeati o echipa dinamica.",
+        "imageUrl": "assets/projects/identity.png"
+      },
+      {
+        "title": "Servicii Imigrare",
+        "description": "Obtinem vizele necesare\nPermisele de munca",
+        "imageUrl": "assets/projects/social.png"
+      },
+      {
+        "title": "Analiză și vizualizare a datelor",
+        "description": "Extragerea de insights din seturi de date complexe,\nUtilizarea uneltelor precum Python, Tableau și Excel pentru analiză și vizualizare a datelor,\nImpulsionarea luării deciziilor și stimularea creșterii afacerii cu strategii bazate pe date.",
+        "imageUrl": "assets/projects/data.png"
+      },
+      {
+        "title": "Revigorarea identității de brand",
+        "description": "Reîmprospătarea elementelor de brand pentru o atracție modernă,\nRedesenarea logo-ului, rafinarea paletei de culori și identitate vizuală coezivă,\nCrescând percepția și recunoașterea brandului pe piață.",
+        "imageUrl": "assets/projects/mobile.png"
+      }
+    ]
+  },
+  "testimonial": {
+    "title": "Ce spun clienții noștri",
+    "testimonial1": "Apostol Si Asociat II a fost instrumentală în transformarea operațiunilor noastre de afaceri. Soluțiile lor software nu sunt doar inovatoare, ci se integrează perfect și cu sistemele noastre existente.",
+    "testimonial2": "Colaborăm cu Apostol Si Asociat II de mai mulți ani și angajamentul lor față de calitate și excelență nu a vacilat niciodată.",
+    "testimonial3": "Apostol Si Asociat II ridică ștacheta înaltă când vine vorba de dezvoltarea software-ului. Soluțiile lor nu sunt doar robuste și fiabile, ci și personalizate pentru a răspunde nevoilor specifice ale afacerii noastre.",
+    "testimonial4": "Alegerea Apostol Si Asociat II ca furnizor de software a fost una dintre cele mai bune decizii pe care le-am luat pentru afacerea noastră.",
+    "testimonial5": "Lucrul cu Apostol Si Asociat II a fost un joc de schimbare pentru organizația noastră. Soluțiile lor software nu numai că ne-au simplificat fluxurile de lucru, dar au redus semnificativ și costurile noastre operaționale."
+  },
+  "pricing": {
+    "title": "Plan de tarifare",
+    "monthly": {
+      "title": "Lunar",
+      "priceLabel": "/ Lună",
+      "price": "19",
+      "discountApplied": "Prima reducere aplicată",
+      "advantages": {
+        "first": "Primul avantaj premium",
+        "second": "Al doilea avantaj premium",
+        "third": "Al treilea avantaj"
+      },
+      "button": "Începeți"
+    },
+    "annual": {
+      "title": "Anual",
+      "priceLabel": "/ Lună",
+      "price": "15",
+      "discountApplied": "1 Discount aplicat",
+      "originalPrice": "FACTURAT ANUAL",
+      "discountedPrice": "190 $",
+      "advantages": {
+        "first": "Primul avantaj premium",
+        "second": "Al doilea avantaj premium",
+        "third": "Al treilea avantaj",
+        "fourth": "Al patrulea avantaj al organizațiilor"
+      },
+      "button": "Începeți"
+    },
+    "free": {
+      "title": "Gratuit",
+      "price": "0",
+      "advantages": {
+        "first": "Primul avantaj premium",
+        "second": "Al doilea avantaj premium",
+        "third": "Al treilea avantaj"
+      },
+      "button": "Începeți planul"
+    }
+  },
+  "contact": {
+    "title": "Contactati-ne!",
+    "subtitle": "Suntem aici pentru a ajuta și pentru a răspunde la orice întrebare pe care o aveți.",
+    "placeholders": {
+      "name": "Nume",
+      "email": "Email",
+      "number": "Număr",
+      "subject": "Subiect",
+      "message": "Mesaj"
+    },
+    "submitButtonText": "Trimite",
+    "contactDetails": {
+      "phone": ["0769 770 044", "+0040 769 770 044"],
+      "email": ["apostolsiasociatii@gmail.com", "office@apostolsiasociatii.eu"],
+      "address": ["BUCURESTI", "B-DUL CORNELIU COPOSU NR. 7" , "BL. 104, SC 3, ET. 5, AP. 77" , "INTERFON 77"]
+    }
+  },
+  "footer": {
+    "home": "Acasă",
+    "features": "Caracteristici",
+    "portfolio": "Portofoliu",
+    "team": "Echipă",
+    "pricing": "Prețuri",
+    "contact": "Contactează-ne",
+    "copyRight": "Drepturi de autor © APOSTOL si ASOCIATII | Toate drepturile rezervate"
+  }
+}
